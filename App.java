@@ -4,7 +4,7 @@ import java.util.ArrayList;
  * Hello world!
  *
  */
-public class App1
+public class App
 {
 // class for sweets
 	public class Sweets
